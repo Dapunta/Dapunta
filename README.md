@@ -3,7 +3,8 @@
 ## GitHub Stats  
 ![Dapunta's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dapunta&show_icons=true&theme=chartreuse-dark)  
 ## Repositories  
-<a href="https://github.com/Dapunta/elite"><img src="https://github-link-card.s3.ap-northeast-1.amazonaws.com/Dapunta/elite.png" width="460px"></a>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dapunta&repo=elite&theme=chartreuse-dark)](https://github.com/Dapunta/elite)  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dapunta&repo=crackfb3&theme=chartreuse-dark)](https://github.com/Dapunta/crackfb3)
 ## Social Media  
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Dapunta) <a href="https://github.com/Dapunta/crackfb">My Github</a>  
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Dapunta.Khurayra.X) <a href="https://www.facebook.com/Dapunta.Khurayra.X">My Facebook</a>  
