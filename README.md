@@ -11,9 +11,9 @@
   <img width="400" height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dapunta&layout=compact&theme=chartreuse-dark">
 </p>
 <p align="center">
-  <a href="https://github.com/Dapunta/premium"><img width="400" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=Dapunta&repo=premium&theme=chartreuse-dark"></a> <a href="https://github.com/Dapunta/elite"><img width="400" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=Dapunta&repo=elite&theme=chartreuse-dark"></a>
-  <a href="https://github.com/Dapunta/fbcrack"><img width="400" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=Dapunta&repo=fbcrack&theme=chartreuse-dark"></a> <a href="https://github.com/Dapunta/dump"><img width="400" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=Dapunta&repo=dump&theme=chartreuse-dark"></a>
-  <a href="https://github.com/Dapunta/fl"><img width="400" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=Dapunta&repo=fl&theme=chartreuse-dark"></a> <a href="https://github.com/Dapunta/iploc"><img width="400" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=Dapunta&repo=iploc&theme=chartreuse-dark"></a>
+  <a href="https://github.com/Dapunta/premium"><img width="450" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Dapunta&repo=premium&theme=chartreuse-dark"></a> <a href="https://github.com/Dapunta/elite"><img width="450" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Dapunta&repo=elite&theme=chartreuse-dark"></a>
+  <a href="https://github.com/Dapunta/fbcrack"><img width="450" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Dapunta&repo=fbcrack&theme=chartreuse-dark"></a> <a href="https://github.com/Dapunta/dump"><img width="450" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Dapunta&repo=dump&theme=chartreuse-dark"></a>
+  <a href="https://github.com/Dapunta/fl"><img width="450" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Dapunta&repo=fl&theme=chartreuse-dark"></a> <a href="https://github.com/Dapunta/iploc"><img width="450" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Dapunta&repo=iploc&theme=chartreuse-dark"></a>
 </p>
 <h3 align="center">
   <a href="https://saweria.co/Dapunta" target="blank">Support Me!</a>
