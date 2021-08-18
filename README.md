@@ -2,7 +2,7 @@
   <img width="1000" height="350" src="https://user-images.githubusercontent.com/76211798/110226100-bce80200-7f1e-11eb-9c70-a22a5a7c71d3.jpg">
 </p>
 <h1 align="center"><br>
-  <b>Hello Programmers!<b> <a href="https://www.facebook.com/Dapunta.Khurayra.X" target="blank">Dapunta XD</a> Was Here
+  <b>Hello Programmers!<b> <a href="https://www.facebook.com/Dapunta.Khurayra.X" target="blank">Dapunta ID</a> Was Here
 </h1><br><br>
 <p align="center">
   <img width="800" height="300" src="https://github-readme-stats.vercel.app/api?username=Dapunta&show_icons=true&theme=chartreuse-dark">
