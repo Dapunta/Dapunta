@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="1000" height="400" src="https://user-images.githubusercontent.com/76211798/110226100-bce80200-7f1e-11eb-9c70-a22a5a7c71d3.jpg">
+  <img width="1000" height="350" src="https://user-images.githubusercontent.com/76211798/110226100-bce80200-7f1e-11eb-9c70-a22a5a7c71d3.jpg">
 </p>
 <h1 align="center"><br>
   <b>Hello Programmers!<b> <a href="https://www.facebook.com/Dapunta.Khurayra.X" target="blank">Dapunta XD</a> Was Here
