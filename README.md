@@ -8,12 +8,9 @@
   <img width="800" height="300" src="https://github-readme-stats.vercel.app/api?username=Dapunta&show_icons=true&theme=chartreuse-dark">
 </p>
 <p align="center">
-  <img width="450" height="250" src="https://github-readme-stats.vercel.app/api/pin/?username=Dapunta&repo=premium&theme=chartreuse-dark"> 
-  <img width="450" height="250" src="https://github-readme-stats.vercel.app/api/pin/?username=Dapunta&repo=elite&theme=chartreuse-dark">
-  <img width="450" height="250" src="https://github-readme-stats.vercel.app/api/pin/?username=Dapunta&repo=fbcrack&theme=chartreuse-dark"> 
-  <img width="450" height="250" src="https://github-readme-stats.vercel.app/api/pin/?username=Dapunta&repo=dump&theme=chartreuse-dark">
-  <img width="450" height="250" src="https://github-readme-stats.vercel.app/api/pin/?username=Dapunta&repo=fl&theme=chartreuse-dark"> 
-  <img width="450" height="250" src="https://github-readme-stats.vercel.app/api/pin/?username=Dapunta&repo=iploc&theme=chartreuse-dark">
+  <img width="450" height="250" src="https://github-readme-stats.vercel.app/api/pin/?username=Dapunta&repo=premium&theme=chartreuse-dark"> <img width="450" height="250" src="https://github-readme-stats.vercel.app/api/pin/?username=Dapunta&repo=elite&theme=chartreuse-dark">
+  <img width="450" height="250" src="https://github-readme-stats.vercel.app/api/pin/?username=Dapunta&repo=fbcrack&theme=chartreuse-dark"> <img width="450" height="250" src="https://github-readme-stats.vercel.app/api/pin/?username=Dapunta&repo=dump&theme=chartreuse-dark">
+  <img width="450" height="250" src="https://github-readme-stats.vercel.app/api/pin/?username=Dapunta&repo=fl&theme=chartreuse-dark"> <img width="450" height="250" src="https://github-readme-stats.vercel.app/api/pin/?username=Dapunta&repo=iploc&theme=chartreuse-dark">
 </p>
 <p align="center">
   <img width="450" height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dapunta&layout=compact&theme=chartreuse-dark">
