@@ -5,7 +5,7 @@
   <b>Hello Programmers!<b> <a href="https://www.facebook.com/Dapunta.Khurayra.X" target="blank">Dapunta ID</a> Was Here
 </h1>
 <p align="center">
-  <img width="600" height="220" src="https://github-readme-stats.vercel.app/api?username=Dapunta&show_icons=true&theme=chartreuse-dark">
+  <img width="600" height="220" src="https://github-readme-stats.vercel.app/api?username=Dapunta&show_icons=true&theme=chartreuse-dark&locale=id">
 </p>
 <p align="center">
   <img width="400" height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dapunta&layout=compact&theme=chartreuse-dark">
