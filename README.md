@@ -14,13 +14,9 @@
 <a href="https://github.com/Dapunta/sakera"><img width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Dapunta&repo=sakera&theme=chartreuse-dark"></a>
 <a href="https://github.com/Dapunta/elite"><img width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Dapunta&repo=elite&theme=chartreuse-dark"></a>
 <a href="https://github.com/Dapunta/premium"><img width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Dapunta&repo=premium&theme=chartreuse-dark"></a>
-<a href="https://github.com/Dapunta/dmbf"><img width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Dapunta&repo=dmbf&theme=chartreuse-dark"></a>
-<a href="https://github.com/Dapunta/sbf"><img width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Dapunta&repo=sbf&theme=chartreuse-dark"></a>
 <a href="https://github.com/Dapunta/fbcrack"><img width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Dapunta&repo=fbcrack&theme=chartreuse-dark"></a>
-<a href="https://github.com/Dapunta/dump"><img width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Dapunta&repo=dump&theme=chartreuse-dark"></a>
-<a href="https://github.com/Dapunta/fl"><img width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Dapunta&repo=fl&theme=chartreuse-dark"></a>
-<a href="https://github.com/Dapunta/fac"><img width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Dapunta&repo=fac&theme=chartreuse-dark"></a>
-<a href="https://github.com/Dapunta/iploc"><img width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Dapunta&repo=iploc&theme=chartreuse-dark"></a>
+<a href="https://github.com/Dapunta/facebook-tools"><img width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Dapunta&repo=facebook-tools&theme=chartreuse-dark"></a>
+<a href="https://github.com/Dapunta/automation-tools"><img width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Dapunta&repo=automation-tools&theme=chartreuse-dark"></a>
 </p>
 <p align="center">
   <img width="auto" height="auto" src='https://github-profile-trophy.vercel.app/?username=Dapunta&theme=monokai&row=1&column=5&no-frame=true'
