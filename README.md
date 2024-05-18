@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center" style="font-size: 4vw;">
-  <b>Hello Programmers! <a href="https://www.facebook.com/Dapunta.Khurayra.X" target="blank">Dapunta</a> Was Here</b>
+  <b>Hello Programmers! <a href="https://dapunta.github.io" target="blank">Dapunta</a> Was Here</b>
 </h1>
 
 <p align="center">
