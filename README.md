@@ -3,14 +3,14 @@
 </p>
 
 <h1 align="center" style="font-size: 4vw;">
-  <b>Hello Programmers! <a href="https://dapunta.github.io" target="blank">Dapunta</a> Was Here</b>
+  <b>Hello Programmers! <a href="https://dapuntaratya.com/" target="blank">Dapunta</a> Was Here</b>
 </h1>
 
 <p align="center">
-  <img width="70%" height="auto" src="https://github-readme-stats.vercel.app/api?username=Dapunta&show_icons=true&theme=chartreuse-dark&locale=id">
+  <img width="70%" height="auto" src="https://github-readme-stats.vercel.app/api?username=Dapunta&show_icons=true&theme=chartreuse-dark&locale=en">
 </p>
 
-<h3 align="center" style="font-size: 2.5vw; margin-top: 0vw;">Python Developer | Informatics Engineering | AI Enthusiast</h3>
+<h3 align="center" style="font-size: 2.5vw; margin-top: 0vw;">Python Developer | Informatics Engineering | Automation Enthusiast</h3>
 
 <p align="center" width="100%" height="auto">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=Dapunta.Dapunta"/>
