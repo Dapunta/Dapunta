@@ -44,7 +44,7 @@
 <br>
 
 <div align="center" style="margin-top: 3%;">
-  <img width="70%" height="auto" src='https://github-profile-trophy.vercel.app/?username=Dapunta&theme=monokai&row=1&column=5&no-frame=true'>
+  <img width="70%" height="auto" src='https://github-profile-trophy.vercel.app/?username=Dapunta&theme=monokai&row=1&column=6&no-frame=true&margin-w=2'>
 </div>
 
 <br>
